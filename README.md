@@ -1,5 +1,10 @@
 # Covid19
-Project for web scrapping
+A Web Scrapping project
+
+## Overview
+The project focus on get data from internet and transfer data to a file in GDrive. The script is scheduled on crontab running 8/8h and sending to GDrive file at midnight all information ready, sanitized, and in good shape.
+
+Outuput is a .csv file.
 
 ### There are 3 steps in this project:
 
